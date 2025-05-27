@@ -1,4 +1,5 @@
 # Chatbot DeepSeek
+A simple chatbot application, leveraging models embedded on a local Ollama server, draws reference from the GitHub repository at https://github.com/MaklonFR/deepseek-R1-flask. This project uses the Flask framework for its web interface, providing a Python-based solution for creating a reasoning chatbot.
 
 A simple Flask-based web application for interacting with a chatbot. This project uses HTML and CSS for the frontend and Flask for the backend.
 
